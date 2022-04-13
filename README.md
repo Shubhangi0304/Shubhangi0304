@@ -8,6 +8,7 @@ I am a Potterhead and can talk about the Wizarding World anytime, anywhere! ✨
 
 Read more about me and connect with me :octocat:
 
+<img src="https://github.com/Shubhangi0304/images/blob/main/1409937.png" width="128"/>
 ![Twitter](https://github.com/Shubhangi0304/images/blob/main/1409937.png) [Twitter](https://twitter.com/knowShubhangi) 
 ![LinkedIn](https://github.com/Shubhangi0304/images/blob/main/1409945.png) [LinkedIn](https://www.linkedin.com/in/knowShubhangi/)
 ![Instagram](https://github.com/Shubhangi0304/images/blob/main/1409946.png) [Instagram](https://www.instagram.com/knowshubhangi/)
