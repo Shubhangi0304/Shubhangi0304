@@ -2,18 +2,21 @@
 
 I am Shubhangi Gupta, a DevRel at the [The @ Company](http://atsign.com/) and the co-founder of [Raahee](https://raahee.in/), an inclusive mental health startup.
 
-I am pursuing Masters in Psychology and have my bachelor's in computer science engineering. 
+I am pursuing Masters in Psychology and have my bachelor's in Computer Science Engineering. 
 
-I am a Potterhead and can talk about the Wizarding World anytime, anywhere! ✨
+I am a Potterhead <img src="https://github.com/Shubhangi0304/images/blob/main/867884.png" width="25"/> and can talk about the Wizarding World anytime, anywhere! ✨
 
-Read more about me and connect with me :octocat:
-
-<img src="https://github.com/Shubhangi0304/images/blob/main/1409937.png" width="15"/></> [Twitter](https://twitter.com/knowShubhangi) 
-![LinkedIn](https://github.com/Shubhangi0304/images/blob/main/1409945.png) [LinkedIn](https://www.linkedin.com/in/knowShubhangi/)
-![Instagram](https://github.com/Shubhangi0304/images/blob/main/1409946.png) [Instagram](https://www.instagram.com/knowshubhangi/)
+Pronous: she/her 👩‍🔬
 
 
 
+Connect with me :octocat:
+
+<img src="https://github.com/Shubhangi0304/images/blob/main/1409937.png" width="25"/> [Twitter](https://twitter.com/knowShubhangi) 
+<img src="https://github.com/Shubhangi0304/images/blob/main/1409945.png" width="25"/> [LinkedIn](https://www.linkedin.com/in/knowShubhangi/)
+<img src="https://github.com/Shubhangi0304/images/blob/main/1409946.png" width="25"/> [Instagram](https://www.instagram.com/knowshubhangi/)
+<img src="https://github.com/Shubhangi0304/images/blob/main/2965306.png" width="25"/> [Mail](knowshubhangi@gmail.com)
+<img src="https://github.com/Shubhangi0304/images/blob/main/3059997.png" width="25"/> Website In Progress](https://knowshubhangi.com/)
 
 
 <!--
