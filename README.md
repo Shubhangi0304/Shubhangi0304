@@ -13,10 +13,15 @@ Pronous: she/her 👩‍🔬
 Connect with me :octocat:
 
 <img src="https://github.com/Shubhangi0304/images/blob/main/1409937.png" width="25"/> [Twitter](https://twitter.com/knowShubhangi) 
+
 <img src="https://github.com/Shubhangi0304/images/blob/main/1409945.png" width="25"/> [LinkedIn](https://www.linkedin.com/in/knowShubhangi/)
+
 <img src="https://github.com/Shubhangi0304/images/blob/main/1409946.png" width="25"/> [Instagram](https://www.instagram.com/knowshubhangi/)
+
 <img src="https://github.com/Shubhangi0304/images/blob/main/2965306.png" width="25"/> [Mail](knowshubhangi@gmail.com)
-<img src="https://github.com/Shubhangi0304/images/blob/main/3059997.png" width="25"/> Website In Progress](https://knowshubhangi.com/)
+
+<img src="https://github.com/Shubhangi0304/images/blob/main/3059997.png" width="25"/> [Website In Progress](https://knowshubhangi.com/)
+
 
 
 <!--
